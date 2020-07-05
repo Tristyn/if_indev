@@ -1,15 +1,16 @@
 {
 "companyName": "Idle Factory",
 "productName": "Idle Factory",
-"productVersion": "0.1",
+"productVersion": "0.1.7.4",
 "dataUrl": "WebGL.data.unityweb",
 "wasmCodeUrl": "WebGL.wasm.code.unityweb",
 "wasmFrameworkUrl": "WebGL.wasm.framework.unityweb",
+"wasmSymbolsUrl": "WebGL.wasm.symbols.unityweb",
 "graphicsAPI": ["WebGL 2.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
 "splashScreenStyle": "Light",
 "backgroundColor": "#828080",
-"developmentBuild": true,
+"developmentBuild": false,
 "multithreading": false,
 "unityVersion": "2019.4.2f1"
 }
