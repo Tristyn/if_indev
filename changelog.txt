@@ -1,0 +1,24 @@
+Version 0.1.8.6.1
++ Buffed conveyor speed to 2m/s from 1m/s
+* Fixed machines could buying/selling/assembling every frame
+* Fixed game time passing by at twice speed, and at normal speed when game was paused
+* Fixed bug preventing some machines from being sold
+* Fixed items could permanently stopping in place
+* Fixed browser hangs at loading screen
+
+Version 0.1.8.6
+Browser https://tristyn.github.io
+Android Installer https://tristyn.github.io/Idle_Factory.apk
+Windows Zip https://tristyn.github.io/Idle_Factory_Win64.zip
++ Autosave
++ Placement hologram
++ Machine drop effect
+* Machines inventory capacity is now 2 or 4 (recipe requirement*2) instead of 10
+
+Version 0.1.7.4 https://tristyn.github.io
++ Machines
++ Items
++ Machine Picker
++ 10 Music Tracks
++ 6 Sounds
++ Improved Phone, PC controls, layout
